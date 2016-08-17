@@ -29,7 +29,7 @@ Including Plots
 You can also embed plots, for example:
 
 ``` r
-plot(pressure, xlab="something else", col="red")
+plot(pressure, xlab="Dr.Barry Grant", col="blue")
 ```
 
 ![](rstudio_github_files/figure-markdown_github/unnamed-chunk-1-1.png)

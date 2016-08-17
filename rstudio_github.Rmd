@@ -24,7 +24,7 @@ summary(cars)
 You can also embed plots, for example:
 
 ```{r}
-plot(pressure, xlab="something else", col="red")
+plot(pressure, xlab="Dr.Barry Grant", col="blue")
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
